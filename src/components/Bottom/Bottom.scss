@@ -1,0 +1,66 @@
+.bottom-frame-wrapper-subsection {
+    align-items: flex-end;
+    display: flex;
+    justify-content: space-between;
+    left: 0;
+    padding: 36px 70px;
+    position: absolute;
+    position: relative;
+    top: 613px;
+    width: 1440px;
+    // border: 1px solid red;
+    .img {
+        height: 21.29px;
+        position: relative;
+        width: 96px;
+    }
+
+    .frame-2 {
+        align-items: center;
+        display: inline-flex;
+        flex: 0 0 auto;
+        gap: 24px;
+        position: relative;
+    }
+
+    .text-wrapper {
+        color: #ffffff;
+        font-family: "IBM Plex Sans Condensed", Helvetica;
+        font-size: 16px;
+        font-weight: 400;
+        letter-spacing: 0;
+        line-height: 19.2px;
+        margin-top: -1.00px;
+        position: relative;
+        white-space: nowrap;
+        width: fit-content;
+    }
+
+    .ellipse-2 {
+        background-color: #ffffff;
+        border-radius: 1px;
+        height: 2px;
+        position: relative;
+        width: 2px;
+    }
+
+    .p {
+        color: #bababa;
+        font-family: "IBM Plex Sans Condensed", Helvetica;
+        font-size: 16px;
+        font-weight: 400;
+        letter-spacing: 0;
+        line-height: 19.2px;
+        position: relative;
+        white-space: nowrap;
+        width: fit-content;
+    }
+
+    .line {
+        height: 2px;
+        left: 70px;
+        position: absolute;
+        top: -2px;
+        width: 1300px;
+    }
+}
