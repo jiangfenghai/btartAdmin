@@ -1,0 +1,12 @@
+{
+  "nodes": [
+    {
+      "id": "src/components/AdminReview/ArtworkRegistrationReview/ArtworkInformation/ArtworkInformation.jsx",
+      "label": "ArtworkInformation",
+      "routes": [
+        "/register/:id"
+      ]
+    }
+  ],
+  "edges": []
+}

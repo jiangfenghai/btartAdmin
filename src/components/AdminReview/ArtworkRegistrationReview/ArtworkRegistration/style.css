@@ -1,0 +1,527 @@
+.ArtworkRegister {
+  background-color: #131317;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.ArtworkRegister .div {
+  background-color: #131317;
+  height: 1920px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.ArtworkRegister .frame {
+  align-items: center;
+  display: flex;
+  gap: 479px;
+  justify-content: space-around;
+  left: 36px;
+  position: absolute;
+  top: 32px;
+  width: 1368px;
+}
+
+.ArtworkRegister .b-tart {
+  color: #ffffff;
+  font-family: "Cormorant Unicase", Helvetica;
+  font-size: 40px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.ArtworkRegister .frame-2 {
+  align-items: flex-end;
+  display: flex;
+  justify-content: space-between;
+  left: 0;
+  padding: 36px 70px;
+  position: absolute;
+  top: 1827px;
+  width: 1440px;
+}
+
+.ArtworkRegister .frame-3 {
+  background-image: url(../../../static/img/btart.svg);
+  background-size: 100% 100%;
+  height: 21.29px;
+  position: relative;
+  width: 96px;
+}
+
+.ArtworkRegister .frame-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.ArtworkRegister .text-wrapper {
+  color: #ffffff;
+  font-family: "IBM Plex Sans Condensed", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.ArtworkRegister .ellipse {
+  background-color: #ffffff;
+  border-radius: 1px;
+  height: 2px;
+  position: relative;
+  width: 2px;
+}
+
+.ArtworkRegister .p {
+  color: #bababa;
+  font-family: "IBM Plex Sans Condensed", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.ArtworkRegister .line {
+  height: 2px;
+  left: 70px;
+  position: absolute;
+  top: -2px;
+  width: 1300px;
+}
+
+.ArtworkRegister .frame-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 320px;
+  position: absolute;
+  top: 227px;
+  width: 800px;
+}
+
+.ArtworkRegister .frame-6 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 18px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.ArtworkRegister .frame-7 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+}
+
+.ArtworkRegister .rectangle {
+  height: 72px;
+  object-fit: cover;
+  position: relative;
+  width: 72px;
+}
+
+.ArtworkRegister .frame-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 17px;
+  position: relative;
+}
+
+.ArtworkRegister .frame-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.ArtworkRegister .frame-9 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.ArtworkRegister .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "IBM Plex Sans Condensed", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.ArtworkRegister .div-wrapper {
+  align-items: center;
+  background-color: #434343;
+  border-radius: 15px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 2px 6px;
+  position: relative;
+}
+
+.ArtworkRegister .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "IBM Plex Sans Condensed", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.ArtworkRegister .text-wrapper-4 {
+  color: #c4c4c4;
+  font-family: "IBM Plex Sans Condensed", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.ArtworkRegister .img {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 107px;
+  width: 798px;
+}
+
+.ArtworkRegister .frame-10 {
+  align-items: flex-end;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  margin-left: -243px;
+  position: relative;
+}
+
+.ArtworkRegister .frame-11 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.ArtworkRegister .frame-12 {
+  align-items: center;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 37px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  padding: 8px 12px;
+  position: relative;
+}
+
+/* 已批准 */
+.frame-12.approved {
+  color: #4CAF50;
+  border: 1px solid #4CAF50;
+}
+
+/* 已拒绝 */
+.frame-12.rejected {
+  color: #F44336;
+  border: 1px solid #F44336;
+}
+
+.ArtworkRegister .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "IBM Plex Sans Condensed", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+  cursor: pointer;
+}
+
+.ArtworkRegister .arrow {
+  height: 10.85px;
+  margin-right: -0.50px;
+  object-fit: cover;
+  position: relative;
+  width: 10.86px;
+}
+
+.ArtworkRegister .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "IBM Plex Sans Condensed", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+  cursor: pointer;
+}
+
+.ArtworkRegister .frame-13 {
+  align-items: center;
+  display: inline-flex;
+  gap: 6px;
+  left: 320px;
+  position: absolute;
+  top: 189px;
+  cursor: pointer;
+}
+
+.status-tag.approved {
+  color: #4CAF50;
+  /* 绿色 */
+}
+
+.status-tag.rejected {
+  color: #F44336;
+  /* 红色 */
+}
+
+.ArtworkRegister .frame-14 {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 15px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+  cursor: pointer;
+}
+
+.ArtworkRegister .text-wrapper-7 {
+  color: #000000;
+  font-family: "IBM Plex Sans Condensed", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+  cursor: pointer;
+}
+
+
+
+.ArtworkRegister .frame-15 {
+  align-items: center;
+  background-color: #2d2d2d;
+  border-radius: 15px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+  cursor: pointer;
+}
+
+.ArtworkRegister .frame-16 {
+  align-items: center;
+  display: inline-flex;
+  gap: 36px;
+  left: 320px;
+  position: absolute;
+  top: 120px;
+  
+}
+
+.ArtworkRegister .frame-17 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 200px;
+}
+
+.ArtworkRegister .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "IBM Plex Sans Condensed", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+  cursor: pointer;
+}
+
+.ArtworkRegister .rectangle-2 {
+  align-self: stretch;
+  background-color: #ffffff;
+  height: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.ArtworkRegister .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "IBM Plex Sans Condensed", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+  cursor: pointer;
+}
+
+.ArtworkRegister .rectangle-3 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  width: 100%;
+  background-color: #ffffff;
+}
+
+.ArtworkRegister .line-2 {
+  height: 1px;
+  left: 320px;
+  object-fit: cover;
+  position: absolute;
+  top: 152px;
+  width: 799px;
+}
+
+.ArtworkRegister .search-light-instance {
+  left: 1095px !important;
+  top: 190px !important;
+}
+.ArtworkRegister .frame-18-test {
+  align-items: center;
+  display: inline-flex;
+  gap: 36px;
+  left: 320px;
+  position: absolute;
+  top: 120px;
+}
+.ArtworkRegister .frame-19-test {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 200px;
+}
+.ArtworkRegister .frame-11-nft {
+  align-items: center;
+  background-color: #6d49ff;
+  border-radius: 15px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 2px 6px;
+  position: relative;
+}
+.ArtworkRegister .div-wrapper-nft {
+  align-items: center;
+  background-color: #434343;
+  border-radius: 15px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 2px 6px;
+  position: relative;
+}
+.ArtworkRegister .untitled-wrapper {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+.ArtworkRegister .untitled {
+  height: 19px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 19px;
+}
+.ArtworkRegister .text-wrapper-5-approved {
+  color: #1dd787;
+  font-family: "IBM Plex Sans Condensed", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+.ArtworkRegister .frame-12-approved {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  padding: 8px 12px;
+  position: relative;
+}
+.ArtworkRegister .frame-12-reject {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  padding: 8px 12px;
+  position: relative;
+}
+.ArtworkRegister .text-wrapper-5-reject {
+  color: #d73c1d;
+  font-family: "IBM Plex Sans Condensed", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
