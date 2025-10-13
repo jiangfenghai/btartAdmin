@@ -10,8 +10,8 @@ import '@rainbow-me/rainbowkit/styles.css'
 
 import { Register } from "./components/AdminReview/ArtworkRegistrationReview/ArtworkRegistration/ArtworkRegistration";
 import { ArtworkInformation } from "./components/AdminReview/ArtworkRegistrationReview/ArtworkInformation/ArtworkInformation";
-import { Nft } from "./components/AdminReview/ArtworkRegistrationReview/NFtInformation/nftInformation"
-
+/* import { Nft } from "./components/AdminReview/ArtworkRegistrationReview/NFtInformation/nftInformation"
+ */
 
 
 const queryClient = new QueryClient()
