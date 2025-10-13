@@ -13,7 +13,7 @@ export const Nft = () => {
   if (!artwork) {
     return <p>Artwork not found</p>;
   }
-
+/* --------- */
   return (
     <div className="NftInformation">
       <div className="div">
