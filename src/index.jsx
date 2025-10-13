@@ -8,8 +8,8 @@ import { QueryClientProvider, QueryClient } from '@tanstack/react-query'
 import { RainbowKitProvider, getDefaultConfig, darkTheme, lightTheme } from '@rainbow-me/rainbowkit'
 import '@rainbow-me/rainbowkit/styles.css'
 
-import { Register } from "./components/AdminReview/ArtworkRegistrationReview/ArtworkRegistration/ArtworkRegistration";
-import { ArtworkInformation } from "./components/AdminReview/ArtworkRegistrationReview/ArtworkInformation/ArtworkInformation";
+import { Register } from "./components/AdminReview/ArtworkRegistrationReview/ArtworkRegistration/ArtworkRegistration.jsx";
+import { ArtworkInformation } from "./components/AdminReview/ArtworkRegistrationReview/ArtworkInformation/ArtworkInformation.jsx";
 /* import { Nft } from "./components/AdminReview/ArtworkRegistrationReview/NFtInformation/nftInformation"
  */
 
